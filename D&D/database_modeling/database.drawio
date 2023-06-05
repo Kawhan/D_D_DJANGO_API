@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2023-06-05T11:38:01.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mkGjzUJum4giegCJAxpL" version="21.3.7" type="device">
+  <diagram name="Página-1" id="aw8H4lm0IKBlgUcRgIM_">
+    <mxGraphModel dx="1050" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_8QmKEpxUPxFZCxkAPVT-40" value="characters" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Helvetica;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="220" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_8QmKEpxUPxFZCxkAPVT-41" value="+nome: Charfield&lt;br&gt;+raca: Charfield&lt;br&gt;+forca: floatField&lt;br&gt;+destreza: floatField&lt;br&gt;+construcao: floatflield&lt;br&gt;+inteligencia: floatfield&lt;br&gt;+sabedoria: floatfield&lt;br&gt;+classe_armadura: floatfield&lt;br&gt;+iniciativa: floatfield&lt;br&gt;+deslocamento: floatfield&lt;br&gt;+ponto_vida_max: floatfield&lt;br&gt;+pontos_vida_atual: floatfield&lt;br&gt;+pontos_vida_temp: floatfield&lt;br&gt;+equipamentos: TextField&lt;br&gt;+tracos_personalidade: TextField&lt;br&gt;+ideais: TextField&lt;br&gt;+vinculos: TextField&lt;br&gt;+fraquezas: TextField" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="_8QmKEpxUPxFZCxkAPVT-40">
+          <mxGeometry y="50" width="220" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
