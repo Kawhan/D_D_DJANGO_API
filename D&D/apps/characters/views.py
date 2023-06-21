@@ -20,6 +20,6 @@ class CharactersViewSet(viewsets.ModelViewSet):
     permission_classes = [IsAuthenticated]
     filter_backends = [DjangoFilterBackend,
                        filters.OrderingFilter, filters.SearchFilter]
-    ordering_fields = ['raca']
-    search_fields = ['raca', 'nome']
-    filterset_fields = ['raca', 'nome']
+    ordering_fields = ['race']
+    search_fields = ['race', 'name']
+    filterset_fields = ['race', 'name']

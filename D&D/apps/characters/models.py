@@ -2,24 +2,24 @@ from django.db import models
 
 
 class Character(models.Model):
-    nome = models.CharField(max_length=250)
-    raca = models.CharField(max_length=70)
-    forca = models.FloatField()
-    destreza = models.FloatField()
-    construcao = models.FloatField()
-    inteligencia = models.FloatField()
-    sabedoria = models.FloatField()
-    classe_armadura = models.FloatField()
-    iniciativa = models.FloatField()
-    deslocamento = models.FloatField()
-    ponto_vida_max = models.FloatField()
-    pontos_vida_atual = models.FloatField()
-    pontos_vida_temp = models.FloatField()
-    equipamentos = models.TextField()
-    tracos_personalidade = models.TextField()
-    ideais = models.TextField()
-    vinculos = models.TextField()
-    fraquezas = models.TextField()
+    name = models.CharField(max_length=250)
+    race = models.CharField(max_length=70)
+    strength = models.FloatField()
+    dexterity = models.FloatField()
+    construction = models.FloatField()
+    intelligence = models.FloatField()
+    wisdom = models.FloatField()
+    armor_class = models.FloatField()
+    initiative = models.FloatField()
+    displacement = models.FloatField()
+    max_life_point = models.FloatField()
+    current_life_points = models.FloatField()
+    points_life_temp = models.FloatField()
+    equipment = models.TextField()
+    traits_personality = models.TextField()
+    ideals = models.TextField()
+    links = models.TextField()
+    weaknesses = models.TextField()
 
     def __str__(self):
-        return self.nome + ' - ' + self.raca
+        return self.name + ' - ' + self.race

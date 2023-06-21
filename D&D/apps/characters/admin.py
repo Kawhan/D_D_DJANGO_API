@@ -6,21 +6,21 @@ from characters.models import Character
 class CharacterAdmin(admin.ModelAdmin):
     list_display = (
         'id',
-        'nome',
-        'raca',
+        'name',
+        'race',
     )
 
     list_display_links = (
         'id',
-        'nome'
+        'name'
     )
     search_fields = (
-        'raca',
-        'nome'
+        'name',
+        'race'
     )
     list_filter = (
-        'nome',
-        'raca'
+        'name',
+        'race'
     )
 
     list_per_page = 10
