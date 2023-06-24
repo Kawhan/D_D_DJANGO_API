@@ -1,5 +1,4 @@
-## Project description API DJANGO REST FRAMEWORK
-
+## Project description - RPG Manager
 <p>The system is an API that manages a D&D RPG system, which promotes integration between user files. registration of monsters among other features</p>
 
 ## System code usability
