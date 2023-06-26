@@ -84,6 +84,6 @@ This project follows the [MIT License](/LICENSE).
 
 ## 📃 License
 
-![forthebadge]()
+![forthebadge](https://github.com/Kawhan/Octobear-RP-manager/blob/master/LICENSE)
 
 This project follows the [MIT License](/LICENSE).
