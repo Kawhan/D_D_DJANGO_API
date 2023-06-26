@@ -78,10 +78,12 @@ You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
 
 This project follows the [MIT License](/LICENSE).
 
+<!--
 ## Discord
 
 [![Discord Shield]()]()
 
+ -->
 ## 📃 License
 
 ![forthebadge](https://github.com/Kawhan/Octobear-RP-manager/blob/master/LICENSE)
