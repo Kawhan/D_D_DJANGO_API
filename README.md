@@ -8,6 +8,8 @@
 
 1° To start the project it is important that you have __python__ on your machine so you can follow this tutorial to install python in a more current version 
 
+Python used in Projet: 3.10
+
 ### Ubuntu 
 
 ```
